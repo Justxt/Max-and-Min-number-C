@@ -1,4 +1,4 @@
-# Clone
+# TAREA VECTORES.C NUM MAYOR 100K, NUM MENOR E INDICE.
 
 ![image](https://user-images.githubusercontent.com/96129728/212450144-c1dcb960-6070-43dd-9172-28c9e59b43dc.png)
 
